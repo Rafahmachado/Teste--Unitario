@@ -1,0 +1,17 @@
+{
+  "name": "teste_unitario",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+
+  },
+  "keywords": [],
+  "author": "Rafaela Machado",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
